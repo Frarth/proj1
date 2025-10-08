@@ -1,0 +1,8 @@
+@startuml
+class user{
+    - id : string
+    -name : string
+    -number: int
+    +getid()
+}
+@enduml
